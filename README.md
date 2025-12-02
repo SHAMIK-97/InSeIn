@@ -32,7 +32,7 @@ See [Getting Started with Mask2Former](GETTING_STARTED.md).
 @inproceedings{basu2025InSeIn,
       title={Optimizing against Infeasible Inclusions from Data for Semantic Segmentation through Morphology}, 
       author={Shamik Basu and Luc Van Gool and Christos Sakaridis},
-      journal={WACV}
+      journal={IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)}
       year={2026} 
 }
 ```
