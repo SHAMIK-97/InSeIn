@@ -29,14 +29,11 @@ See [Getting Started with Mask2Former](GETTING_STARTED.md).
 ## <a name="CitingMask2Former"></a>Citing InSeIn
 
 ```BibTex
-@misc{basu2025InSeIn,
+@inproceedings{basu2025InSeIn,
       title={Optimizing against Infeasible Inclusions from Data for Semantic Segmentation through Morphology}, 
       author={Shamik Basu and Luc Van Gool and Christos Sakaridis},
-      year={2025},
-      eprint={2408.14672},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2408.14672}, 
+      journal={WACV}
+      year={2026} 
 }
 ```
 
