@@ -40,11 +40,40 @@ See [Getting Started with Mask2Former](GETTING_STARTED.md).
 If you find the code useful, please also consider the following BibTeX entry.
 
 ```BibTeX
+
+@article{YuanCW19,
+  title={Object-Contextual Representations for Semantic Segmentation},
+  author={Yuhui Yuan and Xilin Chen and Jingdong Wang},
+  booktitle={ECCV},
+  year={2020}
+}
+
+@inproceedings{xie2021segformer,
+  title={SegFormer: Simple and Efficient Design for Semantic Segmentation with Transformers},
+  author={Xie, Enze and Wang, Wenhai and Yu, Zhiding and Anandkumar, Anima and Alvarez, Jose M and Luo, Ping},
+  booktitle={Neural Information Processing Systems (NeurIPS)},
+  year={2021}
+}
+
 @inproceedings{cheng2021mask2former,
   title={Masked-attention Mask Transformer for Universal Image Segmentation},
   author={Bowen Cheng and Ishan Misra and Alexander G. Schwing and Alexander Kirillov and Rohit Girdhar},
   journal={CVPR},
   year={2022}
+}
+
+@inproceedings{jain2023oneformer,
+      title={{OneFormer: One Transformer to Rule Universal Image Segmentation}},
+      author={Jitesh Jain and Jiachen Li and MangTik Chiu and Ali Hassani and Nikita Orlov and Humphrey Shi},
+      journal={CVPR}, 
+      year={2023}
+    }
+
+@inproceedings{SegMAN,
+    title={SegMAN: Omni-scale Context Modeling with State Space Models and Local Attention for Semantic Segmentation},
+    author={Yunxiang Fu and Meng Lou and Yizhou Yu},
+    booktitle={IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+    year={2025}
 }
 ```
 
