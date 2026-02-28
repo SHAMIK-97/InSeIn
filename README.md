@@ -26,7 +26,7 @@ See [Preparing Datasets for InSeIn](datasets/README.md).
 See [Getting Started with Mask2Former](GETTING_STARTED.md).
 
 # Model Weights 
-https://drive.google.com/drive/folders/1r8aEez2QizV8nk9_TbTw6wOh18ppQO9K?usp=sharing
+https://drive.google.com/drive/folders/1r8aEez2QizV8nk9_TbTw6wOh18ppQO9K?usp=sharing](https://drive.google.com/drive/folders/1GElkaoMZxGOTZjnEhT6XPBKg4qTl-N8G?usp=sharing
 
 ## <a name="CitingMask2Former"></a>Citing InSeIn
 
